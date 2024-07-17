@@ -8,5 +8,6 @@ httpd
 alpine
 p3terx/aria2-pro
 p3terx/ariang
+moelin/1panel
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
